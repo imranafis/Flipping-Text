@@ -5,7 +5,7 @@
   align-items: center;
 }
 .container.done {
-  background-color: rgb(185, 8, 8);
+  background-color: black;
   height: 98vh;
 }
 .textField {
