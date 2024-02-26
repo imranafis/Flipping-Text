@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  height: 98vh;
+  justify-content: center;
+  align-items: center;
+}
+.container.done {
+  background-color: rgb(185, 8, 8);
+  height: 98vh;
+}
+.textField {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 2.5rem;
+}
+
+.textField.done {
+  color: white;
+}
