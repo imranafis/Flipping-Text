@@ -1,6 +1,6 @@
 const container = document.querySelector(".container");
 const textField = document.querySelector(".textField");
-const text = "HELLO WORLD";
+const text = "HELLO WORLD , TAOHID IS GAY";
 const alphabets = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 let newText = "";
 
